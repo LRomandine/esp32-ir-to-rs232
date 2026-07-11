@@ -1,5 +1,5 @@
 # esp32-ir-to-rs232
-Convert Infrared to RS-232 using an ESP32
+Convert Infrared to RS-232 using an ESP32. I did this for a Sony TV but the code should be easy to change for your device).
 
 # Description
 Simple ESP32 project to translate infrared remote commands into RS-232 for a Sony TV. For whatever reason no one on the internet can get the Sony TV "IR in" port to work with anything except other Sony equipment. I needed a universal remote hub to be able to control my TV without a dingleberry IR blaster emitter in front of the TV, I wanted it completely sleek and hidden behind the TV. So this project was born.
